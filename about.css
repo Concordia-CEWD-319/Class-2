@@ -1,24 +1,22 @@
-
 .box {
-    clear: both;
-    border: 2px solid red;
-    margin: 30px;
-    padding: 20px;
+  clear: both;
+  border: 2px solid red;
+  margin: 30px;
+  padding: 20px;
 }
 
-
 span {
-    font-size: 4em;
-    /* font-size: 4rem; */
+  /* font-size: 4em; */
+  /* font-size: 4rem; */
 }
 
 p {
   text-decoration: underline;
-  /* line-height: 30px; */
+  /* line-height: 15px; */
   font-style: italic;
   /* font-weight: 600; */
 
-  font-size: 10px;
+  font-size: 40px;
 
   font-family: "Potta One", cursive;
 }
@@ -27,12 +25,12 @@ h2 {
 }
 
 img {
-    width: 200px;
-    height: 300px;
-    /* float: left; */
-    padding-right: 20px;
+  width: 200px;
+  height: 300px;
+  float: left;
+  padding-right: 20px;
 }
 
 footer {
-    clear: both;
+  clear: both;
 }
