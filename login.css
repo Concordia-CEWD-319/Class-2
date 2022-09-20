@@ -12,3 +12,13 @@ h2 {
   width: 33px;
   height: 55px;
 }
+
+p {
+  font-size: 20px;
+}
+
+span {
+  /* font-size: 40px; */
+  font-size: 2em;
+  /* font-size: 2rem; */
+}
